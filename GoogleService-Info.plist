@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAM75xmAERPeCNF_lkPckS2RsENQia8H6Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>825944643817</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>darkspecta.Weather-by-WallSpectra</string>
+	<key>PROJECT_ID</key>
+	<string>weather-wing</string>
+	<key>STORAGE_BUCKET</key>
+	<string>weather-wing.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:825944643817:ios:7edf0c0d87c0411e52f878</string>
+</dict>
+</plist>
